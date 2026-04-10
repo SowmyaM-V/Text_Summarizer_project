@@ -6,6 +6,7 @@ The Text Summarizer Project is a Natural Language Processing (NLP) application t
 To reduce lengthy text into meaningful summaries
 To preserve key information and context
 To improve reading efficiency using AI/ML techniques
+
 🛠️ Technologies Used
 Programming Language: Python
 Libraries & Frameworks:
@@ -14,6 +15,7 @@ spaCy
 Transformers (Hugging Face) (optional for advanced models)
 Frontend (optional): HTML, CSS, Bootstrap
 Backend (optional): Flask / Django
+
 ⚙️ Features
 ✨ Automatic text summarization
 📑 Extractive and/or Abstractive summarization
