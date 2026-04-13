@@ -32,3 +32,28 @@ This project implements an automated text summarization system using Natural Lan
 Install required libraries:
 ```bash
 pip install nltk scikit-learn
+
+📁 Project Structure
+automated-text-summarization/
+├── text_summarizer.ipynb
+├── dataset/
+└── README.md
+
+💡 Usage
+Input a long text document
+Apply preprocessing techniques
+Generate summarized output
+Compare original vs summarized text
+
+📊 Workflow
+Text cleaning and preprocessing
+Tokenization and stopword removal
+Sentence scoring (frequency-based / TF-IDF)
+Ranking sentences
+Generating final summary
+
+
+💾 Data Storage
+No database required
+Input text processed directly
+Output generated dynamically
